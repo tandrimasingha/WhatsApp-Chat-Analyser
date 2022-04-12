@@ -29,4 +29,16 @@
 <img src="https://user-images.githubusercontent.com/78292851/163018620-a01bc2ea-d411-4195-ad95-adcd0ef12f5b.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/163018691-68e22b9c-bebe-43a8-b57d-f2d450126622.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/163018796-8b1384da-9ba5-409a-a6e4-f306daf659c1.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/163018902-3182f24e-7b58-41d5-8757-e56768b7a908.png" width="1010"><img src="https://user-images.githubusercontent.com/78292851/163018961-db5bc015-3728-403e-80d8-8780e16d177e.png" width="1010">
 </pre>
 
+## Run Locally
+
+In VSCode terminal -
+
+1.1 `git clone <repo link>`
+
+1.2 `cd WhatsApp-Chat-Analyser`
+
+1.3 `pip install -r requirements.txt `
+
+1.4 `streamlit run app.py`
+
 
