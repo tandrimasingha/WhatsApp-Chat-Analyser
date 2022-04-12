@@ -11,22 +11,22 @@
 
 ### 2. OverAll Visualization
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/158956887-0b407b26-1971-4957-af43-a15bfc173f50.png" width="1000"> <img src="https://user-images.githubusercontent.com/78029145/158956941-cac3a5c6-314d-46c0-87dc-96082dd328c0.png" width="1000">
+<img src="https://user-images.githubusercontent.com/78292851/163016987-cd2eff66-dd3a-445e-b3f9-e2b3edbd2be5.png" width="1000"> <img src="https://user-images.githubusercontent.com/78292851/163017070-79cd0672-dfd9-430b-ab8a-02d97de9bbe5.png" width="1000"> <img src="https://user-images.githubusercontent.com/78292851/163017643-a238d473-0d2c-4cc3-9b9f-6d22696ed169.png" width="1000">
 </pre>
 
-### 3. Covid-19 Prediction Section
+### 3. OverAll Visualization
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/158957322-5e76792c-201e-4743-8a74-2b2c736d3b40.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/158957381-87c25f0b-3559-40d8-b911-b6f6b5fc4a50.png" width="1010">
+<img src="https://user-images.githubusercontent.com/78292851/163017976-f9200c42-e382-4b2e-9c5c-bbe9b37ec6b3.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/163018090-e8c7b165-8d79-4c91-991e-1998e04a73e1.png" width="1010">
 </pre>
 
-### 4. Heart Disease Prediction Section
+### 4. OverAll Visualization
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/158957765-d229878e-c2b7-45fb-9006-2bd05082b953.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/158957853-bdc7aafd-3975-4825-bc31-f4c407e69542.png" width="1010">
+<img src="https://user-images.githubusercontent.com/78292851/163018255-29a0f1e4-77d4-4c55-8048-29b2742c3ee9.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/163018346-7113a81f-a4b1-46ae-883c-839d06fbe463.png" width="1010">
 </pre>
 
-### 5. Medical Suggestions Section
+### 5. Individual Visualization
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/159028682-8e8769d5-e588-4fce-96ea-05223d01f55f.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/159028764-3ad5b97d-cb24-4766-a205-07aee4675c98.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/159028835-b06ff20e-bc4e-4a05-9e28-219b94a46c64.png" width="1010">
+<img src="https://user-images.githubusercontent.com/78292851/163018620-a01bc2ea-d411-4195-ad95-adcd0ef12f5b.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/163018691-68e22b9c-bebe-43a8-b57d-f2d450126622.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/163018796-8b1384da-9ba5-409a-a6e4-f306daf659c1.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/163018902-3182f24e-7b58-41d5-8757-e56768b7a908.png" width="1010"><img src="https://user-images.githubusercontent.com/78292851/163018961-db5bc015-3728-403e-80d8-8780e16d177e.png" width="1010">
 </pre>
 
 
