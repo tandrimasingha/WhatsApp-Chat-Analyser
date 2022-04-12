@@ -2,7 +2,6 @@
             WhatsApp Chat Analyzer 
 </h1>
 
-<img src="https://user-images.githubusercontent.com/78292851/163037910-5f00e001-45a6-401a-92c9-d47775f38c3d.png"/>
 
 ## Overview of the App
 
