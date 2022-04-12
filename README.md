@@ -2,6 +2,8 @@
             WhatsApp Chat Analyzer 
 </h1>
 
+<img src="https://user-images.githubusercontent.com/78292851/163037910-5f00e001-45a6-401a-92c9-d47775f38c3d.png"/>
+
 ## Overview of the App
 
 This app is used to show the statistics and visualization related to any chats of whatsapp whether it may be group chats aur personal chats. It show statistics such as Total Messages sens, total words as well as total media shared. The visualizations include Monthly timelines, word cloud, top 20 words used, emoji analysis, most active user in a group chat, Activity maps and lastly Activity heatmap overall.
@@ -15,7 +17,7 @@ This app is used to show the statistics and visualization related to any chats o
 ## Libraries Used
 
 <img src="https://img.shields.io/badge/numpy%20-%2314354C.svg?&style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas%20-%2314354C.svg?&style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/pickle%20-%2314354C.svg?&style=for-the-badge&logo=pickle&logoColor=white"/>
-<img src="https://img.shields.io/badge/flask%20-%2314354C.svg?&style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn%20-%2314354C.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%2314354C.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%2314354C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+ <img src="https://img.shields.io/badge/scikitlearn%20-%2314354C.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%2314354C.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 
 *******
 
